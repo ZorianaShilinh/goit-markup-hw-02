@@ -60,13 +60,13 @@ color: #434455;
     color: #404bbf;
     }
 
-.section-hero{
+.title-hero{
         font-weight: 700;
         font-size: 56px;
         line-height: 1.17;
         letter-spacing: 0.02em;
         text-align: center;
-        color: #fff;background: #2e2f42;
+        background: #2e2f42;
 }
 
 .hero-button{
@@ -86,7 +86,7 @@ color: #434455;
 
 
 ul
-.features-item-titlet{
+.features-item-title{
    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -100,7 +100,7 @@ ul
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+   
 }
 
 .team-title{
@@ -157,7 +157,7 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;
+
 }
 
     .page-footer{
