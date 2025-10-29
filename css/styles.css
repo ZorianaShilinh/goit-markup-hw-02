@@ -60,22 +60,29 @@ color: #434455;
     color: #404bbf;
     }
 
-.title-hero{
+
+   .section-hero{
+       background: #2e2f42;
+       color: #fff;
+
+   }
+
+   .title-hero{
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.17;
+        line-height: 1.7;
         letter-spacing: 0.02em;
         text-align: center;
-        background: #2e2f42;
+        
 }
-
-.hero-button{
+    
+ .hero-button{
     background: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+ 
 }
 
 .hero-button:hover,
@@ -103,8 +110,7 @@ ul
    
 }
 
-.team-title{
-    background color: #f4f4fd;
+   .team-title{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
@@ -112,6 +118,8 @@ ul
     text-align: center;
     color: #2e2f42;
 }
+
+
 
 ul
 .team-item-title{
