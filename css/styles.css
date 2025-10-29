@@ -70,7 +70,6 @@ color: #434455;
    .title-hero{
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.7;
         letter-spacing: 0.02em;
         text-align: center;
         
@@ -143,7 +142,6 @@ ul
 .portfolio-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
