@@ -73,7 +73,8 @@ color: #434455;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
-}
+    
+    }
     
  .hero-button{
         font-weight: 500;
@@ -81,6 +82,8 @@ color: #434455;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
+        background: #4d5ae5;
+
 }
 
 .hero-button:hover,
@@ -111,7 +114,9 @@ ul
    .team-title{
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #2e2f42;
 }
 
@@ -140,6 +145,7 @@ ul
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.02em;
+    line-height: 1.11;
     text-align: center;
     color: #2e2f42;
 }
