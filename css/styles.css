@@ -133,7 +133,7 @@ ul
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: #2e2f42;background: #fff;
+    color: #2e2f42;background: #fff;background: #f4f4fd;
 }
 
 ul
@@ -142,7 +142,7 @@ ul
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;background: #fff;
+    color: #434455;background: #fff;background: #f4f4fd;
 }
 
 
@@ -187,4 +187,5 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
     }
    
-   
+
+  
