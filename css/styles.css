@@ -92,10 +92,6 @@ color: #434455;
     cursor: pointer;
 }
 
-.section1-features{
-    background: #f4f4fd;
-}
-
 
 ul
 .features-item-title{
@@ -115,12 +111,19 @@ ul
      background: #fff;
 }
 
+    .section-team{
+     background: #f4f4fd;
+}
+
+    .team-item{
+     background: #fff;
+}
 
    .team-title {
     background: #f4f4fd;
    }
 
-.team-title{
+    .team-title{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
