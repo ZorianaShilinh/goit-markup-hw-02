@@ -153,6 +153,11 @@ ul
     color: #434455;background: #fff;
 }
 
+.team-paragraph{
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+
 
 .portfolio-title{
     font-weight: 700;
